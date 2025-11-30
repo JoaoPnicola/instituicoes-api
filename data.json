@@ -1,0 +1,943 @@
+{
+  "instituicoes_voluntarias": [
+    {
+      "id": 1,
+      "nome": "Associação Mãos Solidárias",
+      "campanhas": [
+        {
+          "tipo": "arrecadacao_recursos",
+          "titulo_campanha": "Inverno Quentinho",
+          "nome_instituicao": "Associação Mãos Solidárias",
+          "descricao": "Campanha focada em arrecadar roupas de frio, cobertores e agasalhos para famílias em situação de vulnerabilidade durante os meses mais frios do ano.",
+          "fotos": [
+            "https://api.exemplo.com/fotos/inverno_quentinho_1.jpg",
+            "https://api.exemplo.com/fotos/inverno_quentinho_2.jpg"
+          ],
+          "contato": {
+            "endereco": "Rua das Flores, 123",
+            "telefone": "(51) 99888-1122",
+            "email": "contato@maossolidarias.org",
+            "redes_sociais": {
+              "instagram": "https://instagram.com/maossolidarias"
+            }
+          },
+          "tags": ["roupa", "higiene"]
+        }
+      ],
+      "oportunidades": [
+        {
+          "tipo": "oportunidade_voluntariado",
+          "titulo_vaga": "Auxiliar de Triagem de Doações",
+          "nome_instituicao": "Associação Mãos Solidárias",
+          "descricao": "Atuação no centro de triagem organizando roupas e itens arrecadados. Não é necessário experiência prévia.",
+          "fotos": [
+            "https://api.exemplo.com/fotos/triagem_1.jpg",
+            "https://api.exemplo.com/fotos/triagem_2.jpg"
+          ],
+          "contato": {
+            "endereco": "Rua das Flores, 123",
+            "telefone": "(51) 99888-1122",
+            "email": "contato@maossolidarias.org",
+            "redes_sociais": {
+              "instagram": "https://instagram.com/maossolidarias"
+            }
+          },
+          "tags": ["Geral"]
+        }
+      ]
+    },
+
+    {
+      "id": 2,
+      "nome": "Casa do Bem",
+      "campanhas": [
+        {
+          "tipo": "arrecadacao_recursos",
+          "titulo_campanha": "Natal sem Fome",
+          "nome_instituicao": "Casa do Bem",
+          "descricao": "A campanha visa arrecadar cestas básicas e alimentos não perecíveis para famílias carentes no período de fim de ano.",
+          "fotos": [
+            "https://api.exemplo.com/fotos/natal_sem_fome_1.jpg",
+            "https://api.exemplo.com/fotos/natal_sem_fome_2.jpg"
+          ],
+          "contato": {
+            "endereco": "Av. Central, 850",
+            "telefone": "(51) 99777-3344",
+            "email": "contato@casadobem.org",
+            "redes_sociais": {
+              "instagram": "https://instagram.com/casadobem"
+            }
+          },
+          "tags": ["alimentos"]
+        }
+      ],
+      "oportunidades": [
+        {
+          "tipo": "oportunidade_voluntariado",
+          "titulo_vaga": "Montagem de Cestas Básicas",
+          "nome_instituicao": "Casa do Bem",
+          "descricao": "Auxiliar na montagem e organização das cestas básicas antes da distribuição.",
+          "fotos": [
+            "https://api.exemplo.com/fotos/cestas_1.jpg",
+            "https://api.exemplo.com/fotos/cestas_2.jpg"
+          ],
+          "contato": {
+            "endereco": "Av. Central, 850",
+            "telefone": "(51) 99777-3344",
+            "email": "contato@casadobem.org",
+            "redes_sociais": {
+              "instagram": "https://instagram.com/casadobem"
+            }
+          },
+          "tags": ["Geral"]
+        }
+      ]
+    },
+
+    {
+      "id": 3,
+      "nome": "Instituto Vida Animal",
+      "campanhas": [
+        {
+          "tipo": "arrecadacao_recursos",
+          "titulo_campanha": "Ração para Patudos",
+          "nome_instituicao": "Instituto Vida Animal",
+          "descricao": "Campanha destinada a arrecadar ração, medicamentos e materiais de higiene para cães e gatos resgatados.",
+          "fotos": [
+            "https://api.exemplo.com/fotos/racao_1.jpg",
+            "https://api.exemplo.com/fotos/racao_2.jpg"
+          ],
+          "contato": {
+            "endereco": "Rua dos Lírios, 445",
+            "telefone": "(51) 99666-2211",
+            "email": "contato@vidaanimal.org",
+            "redes_sociais": {
+              "instagram": "https://instagram.com/vidaanimal"
+            }
+          },
+          "tags": ["para animais", "medicamentos"]
+        }
+      ],
+      "oportunidades": [
+        {
+          "tipo": "oportunidade_voluntariado",
+          "titulo_vaga": "Auxiliar de Passeio de Cães",
+          "nome_instituicao": "Instituto Vida Animal",
+          "descricao": "Responsável por levar os cães resgatados para caminhadas diárias no pátio da instituição.",
+          "fotos": [
+            "https://api.exemplo.com/fotos/passeio_caes_1.jpg",
+            "https://api.exemplo.com/fotos/passeio_caes_2.jpg"
+          ],
+          "contato": {
+            "endereco": "Rua dos Lírios, 445",
+            "telefone": "(51) 99666-2211",
+            "email": "contato@vidaanimal.org",
+            "redes_sociais": {
+              "instagram": "https://instagram.com/vidaanimal"
+            }
+          },
+          "tags": ["animais"]
+        }
+      ]
+    },
+
+    {
+      "id": 4,
+      "nome": "Projeto Esperança",
+      "campanhas": [
+        {
+          "tipo": "arrecadacao_recursos",
+          "titulo_campanha": "Material Escolar para Todos",
+          "nome_instituicao": "Projeto Esperança",
+          "descricao": "Arrecadação de mochilas, cadernos, lápis, borrachas e demais materiais escolares para crianças em situação de vulnerabilidade.",
+          "fotos": [
+            "https://api.exemplo.com/fotos/materiais_1.jpg",
+            "https://api.exemplo.com/fotos/materiais_2.jpg"
+          ],
+          "contato": {
+            "endereco": "Rua Horizonte, 900",
+            "telefone": "(51) 99555-8822",
+            "email": "contato@projetoesperanca.org",
+            "redes_sociais": {
+              "instagram": "https://instagram.com/projetoesperanca"
+            }
+          },
+          "tags": ["materias escolares", "brinquedos"]
+        }
+      ],
+      "oportunidades": [
+        {
+          "tipo": "oportunidade_voluntariado",
+          "titulo_vaga": "Monitor de Reforço Escolar",
+          "nome_instituicao": "Projeto Esperança",
+          "descricao": "Auxiliar crianças em atividades escolares e reforço de leitura e matemática.",
+          "fotos": [
+            "https://api.exemplo.com/fotos/reforco_1.jpg",
+            "https://api.exemplo.com/fotos/reforco_2.jpg"
+          ],
+          "contato": {
+            "endereco": "Rua Horizonte, 900",
+            "telefone": "(51) 99555-8822",
+            "email": "contato@projetoesperanca.org",
+            "redes_sociais": {
+              "instagram": "https://instagram.com/projetoesperanca"
+            }
+          },
+          "tags": ["educação"]
+        }
+      ]
+    },
+
+    {
+      "id": 5,
+      "nome": "Fundação Saúde Viva",
+      "campanhas": [
+        {
+          "tipo": "arrecadacao_recursos",
+          "titulo_campanha": "Medicamentos para Todos",
+          "nome_instituicao": "Fundação Saúde Viva",
+          "descricao": "Coleta de medicamentos dentro da validade, itens de primeiros socorros e materiais hospitalares para doação a famílias que não podem comprar.",
+          "fotos": [
+            "https://api.exemplo.com/fotos/medicamentos_1.jpg",
+            "https://api.exemplo.com/fotos/medicamentos_2.jpg"
+          ],
+          "contato": {
+            "endereco": "Rua Saúde, 1010",
+            "telefone": "(51) 99444-5566",
+            "email": "contato@saudeviva.org",
+            "redes_sociais": {
+              "instagram": "https://instagram.com/saudeviva"
+            }
+          },
+          "tags": ["medicamentos", "higiene"]
+        }
+      ],
+      "oportunidades": [
+        {
+          "tipo": "oportunidade_voluntariado",
+          "titulo_vaga": "Auxiliar de Atendimento",
+          "nome_instituicao": "Fundação Saúde Viva",
+          "descricao": "Apoio na recepção e triagem básica de pessoas que recebem atendimento comunitário.",
+          "fotos": [
+            "https://api.exemplo.com/fotos/atendimento_1.jpg",
+            "https://api.exemplo.com/fotos/atendimento_2.jpg"
+          ],
+          "contato": {
+            "endereco": "Rua Saúde, 1010",
+            "telefone": "(51) 99444-5566",
+            "email": "contato@saudeviva.org",
+            "redes_sociais": {
+              "instagram": "https://instagram.com/saudeviva"
+            }
+          },
+          "tags": ["saúde"]
+        }
+      ]
+    },
+
+    {
+      "id": 6,
+      "nome": "Grupo Aqui Somos",
+      "campanhas": [
+        {
+          "tipo": "arrecadacao_recursos",
+          "titulo_campanha": "Roupas para Recomeçar",
+          "nome_instituicao": "Grupo Aqui Somos",
+          "descricao": "Campanha voltada para arrecadar roupas em bom estado, sapatos e itens de higiene para pessoas em situação de rua atendidas semanalmente.",
+          "fotos": [
+            "https://api.exemplo.com/fotos/aquisomos_roupas_1.jpg",
+            "https://api.exemplo.com/fotos/aquisomos_roupas_2.jpg"
+          ],
+          "contato": {
+            "endereco": "Rua Nova Esperança, 77",
+            "telefone": "(51) 99122-3344",
+            "email": "contato@aquisomos.org",
+            "redes_sociais": {
+              "instagram": "https://instagram.com/aquisomos"
+            }
+          },
+          "tags": ["roupa", "higiene"]
+        }
+      ],
+      "oportunidades": [
+        {
+          "tipo": "oportunidade_voluntariado",
+          "titulo_vaga": "Distribuição de Kits de Higiene",
+          "nome_instituicao": "Grupo Aqui Somos",
+          "descricao": "Atividade consiste em ajudar na entrega de kits de higiene para pessoas em situação de rua durante ações semanais.",
+          "fotos": [
+            "https://api.exemplo.com/fotos/aquisomos_voluntarios_1.jpg",
+            "https://api.exemplo.com/fotos/aquisomos_voluntarios_2.jpg"
+          ],
+          "contato": {
+            "endereco": "Rua Nova Esperança, 77",
+            "telefone": "(51) 99122-3344",
+            "email": "contato@aquisomos.org",
+            "redes_sociais": {
+              "instagram": "https://instagram.com/aquisomos"
+            }
+          },
+          "tags": ["Geral"]
+        }
+      ]
+    },
+
+    {
+      "id": 7,
+      "nome": "ONG Sorrisos do Amanhã",
+      "campanhas": [
+        {
+          "tipo": "arrecadacao_recursos",
+          "titulo_campanha": "Brinquedos que Transformam",
+          "nome_instituicao": "ONG Sorrisos do Amanhã",
+          "descricao": "Coleta de brinquedos novos e usados em ótimo estado para crianças atendidas em comunidades carentes.",
+          "fotos": [
+            "https://api.exemplo.com/fotos/brinquedos_sorrisos_1.jpg",
+            "https://api.exemplo.com/fotos/brinquedos_sorrisos_2.jpg"
+          ],
+          "contato": {
+            "endereco": "Rua Alegria, 555",
+            "telefone": "(51) 99715-8899",
+            "email": "contato@sorrisosdoamanha.org",
+            "redes_sociais": {
+              "instagram": "https://instagram.com/sorrisosdoamanha"
+            }
+          },
+          "tags": ["brinquedos"]
+        }
+      ],
+      "oportunidades": [
+        {
+          "tipo": "oportunidade_voluntariado",
+          "titulo_vaga": "Recreação Infantil",
+          "nome_instituicao": "ONG Sorrisos do Amanhã",
+          "descricao": "Voluntários auxiliam em atividades recreativas, leitura e brincadeiras com crianças atendidas pela ONG.",
+          "fotos": [
+            "https://api.exemplo.com/fotos/recreacao_sorrisos_1.jpg",
+            "https://api.exemplo.com/fotos/recreacao_sorrisos_2.jpg"
+          ],
+          "contato": {
+            "endereco": "Rua Alegria, 555",
+            "telefone": "(51) 99715-8899",
+            "email": "contato@sorrisosdoamanha.org",
+            "redes_sociais": {
+              "instagram": "https://instagram.com/sorrisosdoamanha"
+            }
+          },
+          "tags": ["educação", "Geral"]
+        }
+      ]
+    },
+
+    {
+      "id": 8,
+      "nome": "Rede do Bem",
+      "campanhas": [
+        {
+          "tipo": "arrecadacao_recursos",
+          "titulo_campanha": "Doação de Móveis Usados",
+          "nome_instituicao": "Rede do Bem",
+          "descricao": "Campanha para coletar móveis usados em bom estado para famílias que estão recomeçando em nova moradia.",
+          "fotos": [
+            "https://api.exemplo.com/fotos/moveis_rededobem_1.jpg",
+            "https://api.exemplo.com/fotos/moveis_rededobem_2.jpg"
+          ],
+          "contato": {
+            "endereco": "Av. da União, 1200",
+            "telefone": "(51) 99802-3300",
+            "email": "contato@rededobem.org",
+            "redes_sociais": {
+              "instagram": "https://instagram.com/rededobem"
+            }
+          },
+          "tags": ["moveis"]
+        }
+      ],
+      "oportunidades": [
+        {
+          "tipo": "oportunidade_voluntariado",
+          "titulo_vaga": "Ajudante de Carregamento",
+          "nome_instituicao": "Rede do Bem",
+          "descricao": "Voluntários auxiliam na coleta e entrega de móveis doados às famílias cadastradas.",
+          "fotos": [
+            "https://api.exemplo.com/fotos/entrega_rededobem_1.jpg",
+            "https://api.exemplo.com/fotos/entrega_rededobem_2.jpg"
+          ],
+          "contato": {
+            "endereco": "Av. da União, 1200",
+            "telefone": "(51) 99802-3300",
+            "email": "contato@rededobem.org",
+            "redes_sociais": {
+              "instagram": "https://instagram.com/rededobem"
+            }
+          },
+          "tags": ["Geral"]
+        }
+      ]
+    },
+
+    {
+      "id": 9,
+      "nome": "Assistência Luz do Caminho",
+      "campanhas": [
+        {
+          "tipo": "arrecadacao_recursos",
+          "titulo_campanha": "Ajude com Alimentos",
+          "nome_instituicao": "Assistência Luz do Caminho",
+          "descricao": "Campanha para arrecadar alimentos não perecíveis destinados a famílias em extrema pobreza.",
+          "fotos": [
+            "https://api.exemplo.com/fotos/luz_alimentos_1.jpg",
+            "https://api.exemplo.com/fotos/luz_alimentos_2.jpg"
+          ],
+          "contato": {
+            "endereco": "Rua do Sol, 212",
+            "telefone": "(51) 99630-9011",
+            "email": "contato@luzdocaminho.org",
+            "redes_sociais": {
+              "instagram": "https://instagram.com/luzdocaminho"
+            }
+          },
+          "tags": ["alimentos"]
+        }
+      ],
+      "oportunidades": [
+        {
+          "tipo": "oportunidade_voluntariado",
+          "titulo_vaga": "Separação de Alimentos",
+          "nome_instituicao": "Assistência Luz do Caminho",
+          "descricao": "Separação, contagem e organização dos alimentos doados antes da montagem das cestas.",
+          "fotos": [
+            "https://api.exemplo.com/fotos/luz_voluntarios_1.jpg",
+            "https://api.exemplo.com/fotos/luz_voluntarios_2.jpg"
+          ],
+          "contato": {
+            "endereco": "Rua do Sol, 212",
+            "telefone": "(51) 99630-9011",
+            "email": "contato@luzdocaminho.org",
+            "redes_sociais": {
+              "instagram": "https://instagram.com/luzdocaminho"
+            }
+          },
+          "tags": ["Geral"]
+        }
+      ]
+    },
+
+    {
+      "id": 10,
+      "nome": "Instituto Jovem Futuro",
+      "campanhas": [
+        {
+          "tipo": "arrecadacao_recursos",
+          "titulo_campanha": "Tecnologia para Todos",
+          "nome_instituicao": "Instituto Jovem Futuro",
+          "descricao": "Arrecadação de notebooks, tablets e computadores usados para jovens em formação tecnológica.",
+          "fotos": [
+            "https://api.exemplo.com/fotos/tec_jovem_1.jpg",
+            "https://api.exemplo.com/fotos/tec_jovem_2.jpg"
+          ],
+          "contato": {
+            "endereco": "Rua da Juventude, 300",
+            "telefone": "(51) 99777-6600",
+            "email": "contato@jovemfuturo.org",
+            "redes_sociais": {
+              "instagram": "https://instagram.com/jovemfuturo"
+            }
+          },
+          "tags": ["moveis"]
+        }
+      ],
+      "oportunidades": [
+        {
+          "tipo": "oportunidade_voluntariado",
+          "titulo_vaga": "Instrutor de Informática",
+          "nome_instituicao": "Instituto Jovem Futuro",
+          "descricao": "Apoiar jovens em aulas introdutórias de informática, programação e uso de tecnologia.",
+          "fotos": [
+            "https://api.exemplo.com/fotos/inf_jovem_1.jpg",
+            "https://api.exemplo.com/fotos/inf_jovem_2.jpg"
+          ],
+          "contato": {
+            "endereco": "Rua da Juventude, 300",
+            "telefone": "(51) 99777-6600",
+            "email": "contato@jovemfuturo.org",
+            "redes_sociais": {
+              "instagram": "https://instagram.com/jovemfuturo"
+            }
+          },
+          "tags": ["educação"]
+        }
+      ]
+    },
+
+    {
+      "id": 11,
+      "nome": "Centro Comunitário Nova Vida",
+      "campanhas": [
+        {
+          "tipo": "arrecadacao_recursos",
+          "titulo_campanha": "Higiene para Comunidade",
+          "nome_instituicao": "Centro Comunitário Nova Vida",
+          "descricao": "Arrecadação de itens de higiene pessoal e limpeza para famílias atendidas pelo centro.",
+          "fotos": [
+            "https://api.exemplo.com/fotos/higiene_novavida_1.jpg",
+            "https://api.exemplo.com/fotos/higiene_novavida_2.jpg"
+          ],
+          "contato": {
+            "endereco": "Rua Esperança, 909",
+            "telefone": "(51) 99220-4466",
+            "email": "contato@novavida.org",
+            "redes_sociais": {
+              "instagram": "https://instagram.com/novavida"
+            }
+          },
+          "tags": ["higiene"]
+        }
+      ],
+      "oportunidades": [
+        {
+          "tipo": "oportunidade_voluntariado",
+          "titulo_vaga": "Atendente Comunitário",
+          "nome_instituicao": "Centro Comunitário Nova Vida",
+          "descricao": "Auxiliar no atendimento geral às famílias que buscam apoio no centro.",
+          "fotos": [
+            "https://api.exemplo.com/fotos/vol_novavida_1.jpg",
+            "https://api.exemplo.com/fotos/vol_novavida_2.jpg"
+          ],
+          "contato": {
+            "endereco": "Rua Esperança, 909",
+            "telefone": "(51) 99220-4466",
+            "email": "contato@novavida.org",
+            "redes_sociais": {
+              "instagram": "https://instagram.com/novavida"
+            }
+          },
+          "tags": ["Geral"]
+        }
+      ]
+    },
+
+    {
+      "id": 12,
+      "nome": "Coração Solidário",
+      "campanhas": [
+        {
+          "tipo": "arrecadacao_recursos",
+          "titulo_campanha": "Cestas para o Bem",
+          "nome_instituicao": "Coração Solidário",
+          "descricao": "Campanha para arrecadar itens alimentares de cesta básica que serão distribuídos no bairro.",
+          "fotos": [
+            "https://api.exemplo.com/fotos/coracao_alimentos_1.jpg",
+            "https://api.exemplo.com/fotos/coracao_alimentos_2.jpg"
+          ],
+          "contato": {
+            "endereco": "Rua Amor Perfeito, 155",
+            "telefone": "(51) 99110-2234",
+            "email": "contato@coracaosolidario.org",
+            "redes_sociais": {
+              "instagram": "https://instagram.com/coracaosolidario"
+            }
+          },
+          "tags": ["alimentos"]
+        }
+      ],
+      "oportunidades": [
+        {
+          "tipo": "oportunidade_voluntariado",
+          "titulo_vaga": "Entrega de Cestas Básicas",
+          "nome_instituicao": "Coração Solidário",
+          "descricao": "Ajudar nas rotas de entrega de cestas básicas a famílias cadastradas.",
+          "fotos": [
+            "https://api.exemplo.com/fotos/coracao_vol_1.jpg",
+            "https://api.exemplo.com/fotos/coracao_vol_2.jpg"
+          ],
+          "contato": {
+            "endereco": "Rua Amor Perfeito, 155",
+            "telefone": "(51) 99110-2234",
+            "email": "contato@coracaosolidario.org",
+            "redes_sociais": {
+              "instagram": "https://instagram.com/coracaosolidario"
+            }
+          },
+          "tags": ["Geral"]
+        }
+      ]
+    },
+
+    {
+      "id": 13,
+      "nome": "Projeto Renascer",
+      "campanhas": [
+        {
+          "tipo": "arrecadacao_recursos",
+          "titulo_campanha": "Rumo ao Recomeço",
+          "nome_instituicao": "Projeto Renascer",
+          "descricao": "Campanha para arrecadar roupas, alimentos e itens de higiene para famílias afetadas por desastres naturais.",
+          "fotos": [
+            "https://api.exemplo.com/fotos/renascer_1.jpg",
+            "https://api.exemplo.com/fotos/renascer_2.jpg"
+          ],
+          "contato": {
+            "endereco": "Rua da Paz, 345",
+            "telefone": "(51) 99818-0099",
+            "email": "contato@renascer.org",
+            "redes_sociais": {
+              "instagram": "https://instagram.com/projetorenascer"
+            }
+          },
+          "tags": ["alimentos", "roupa", "higiene"]
+        }
+      ],
+      "oportunidades": [
+        {
+          "tipo": "oportunidade_voluntariado",
+          "titulo_vaga": "Equipe de Apoio em Emergências",
+          "nome_instituicao": "Projeto Renascer",
+          "descricao": "Atuação emergencial em situações de calamidade, incluindo separação de doações e apoio às vítimas.",
+          "fotos": [
+            "https://api.exemplo.com/fotos/renascer_vol_1.jpg",
+            "https://api.exemplo.com/fotos/renascer_vol_2.jpg"
+          ],
+          "contato": {
+            "endereco": "Rua da Paz, 345",
+            "telefone": "(51) 99818-0099",
+            "email": "contato@renascer.org",
+            "redes_sociais": {
+              "instagram": "https://instagram.com/projetorenascer"
+            }
+          },
+          "tags": ["Geral"]
+        }
+      ]
+    },
+
+    {
+      "id": 14,
+      "nome": "Movimento Ação pelo Bem",
+      "campanhas": [
+        {
+          "tipo": "arrecadacao_recursos",
+          "titulo_campanha": "Ajuda Financeira para Projetos",
+          "nome_instituicao": "Movimento Ação pelo Bem",
+          "descricao": "Levantamento de recursos financeiros destinados à manutenção de projetos sociais locais.",
+          "fotos": [
+            "https://api.exemplo.com/fotos/acaobem_financeiro_1.jpg",
+            "https://api.exemplo.com/fotos/acaobem_financeiro_2.jpg"
+          ],
+          "contato": {
+            "endereco": "Av. Esperança, 404",
+            "telefone": "(51) 99330-2200",
+            "email": "contato@acaopelobem.org",
+            "redes_sociais": {
+              "instagram": "https://instagram.com/acaopelobem"
+            }
+          },
+          "tags": ["financeira"]
+        }
+      ],
+      "oportunidades": [
+        {
+          "tipo": "oportunidade_voluntariado",
+          "titulo_vaga": "Apoio em Eventos Beneficentes",
+          "nome_instituicao": "Movimento Ação pelo Bem",
+          "descricao": "Dar suporte logístico e operacional em eventos destinados à arrecadação de fundos.",
+          "fotos": [
+            "https://api.exemplo.com/fotos/acaobem_eventos_1.jpg",
+            "https://api.exemplo.com/fotos/acaobem_eventos_2.jpg"
+          ],
+          "contato": {
+            "endereco": "Av. Esperança, 404",
+            "telefone": "(51) 99330-2200",
+            "email": "contato@acaopelobem.org",
+            "redes_sociais": {
+              "instagram": "https://instagram.com/acaopelobem"
+            }
+          },
+          "tags": ["Geral"]
+        }
+      ]
+    },
+
+    {
+      "id": 15,
+      "nome": "Associação Esperança Animal",
+      "campanhas": [
+        {
+          "tipo": "arrecadacao_recursos",
+          "titulo_campanha": "Ajude os Animais Resgatados",
+          "nome_instituicao": "Associação Esperança Animal",
+          "descricao": "Campanha para arrecadar ração, remédios e itens de cuidado para cães e gatos em situação de abandono.",
+          "fotos": [
+            "https://api.exemplo.com/fotos/animais_esperanca_1.jpg",
+            "https://api.exemplo.com/fotos/animais_esperanca_2.jpg"
+          ],
+          "contato": {
+            "endereco": "Rua dos Animais, 202",
+            "telefone": "(51) 99555-1123",
+            "email": "contato@esperancaanimal.org",
+            "redes_sociais": {
+              "instagram": "https://instagram.com/esperancaanimal"
+            }
+          },
+          "tags": ["para animais", "medicamentos"]
+        }
+      ],
+      "oportunidades": [
+        {
+          "tipo": "oportunidade_voluntariado",
+          "titulo_vaga": "Zelador de Abrigo",
+          "nome_instituicao": "Associação Esperança Animal",
+          "descricao": "Limpeza do abrigo, cuidados básicos e interação com os animais resgatados.",
+          "fotos": [
+            "https://api.exemplo.com/fotos/esperanca_vol_1.jpg",
+            "https://api.exemplo.com/fotos/esperanca_vol_2.jpg"
+          ],
+          "contato": {
+            "endereco": "Rua dos Animais, 202",
+            "telefone": "(51) 99555-1123",
+            "email": "contato@esperancaanimal.org",
+            "redes_sociais": {
+              "instagram": "https://instagram.com/esperancaanimal"
+            }
+          },
+          "tags": ["animais"]
+        }
+      ]
+    },
+
+    {
+      "id": 16,
+      "nome": "Fundação Vida Plena",
+      "campanhas": [
+        {
+          "tipo": "arrecadacao_recursos",
+          "titulo_campanha": "Kit de Higiene Feminina",
+          "nome_instituicao": "Fundação Vida Plena",
+          "descricao": "Arrecadação de absorventes, sabonetes e itens de cuidados pessoais para mulheres em vulnerabilidade.",
+          "fotos": [
+            "https://api.exemplo.com/fotos/vidaplena_higiene_1.jpg",
+            "https://api.exemplo.com/fotos/vidaplena_higiene_2.jpg"
+          ],
+          "contato": {
+            "endereco": "Rua Vitalidade, 880",
+            "telefone": "(51) 99441-7788",
+            "email": "contato@vidaplena.org",
+            "redes_sociais": {
+              "instagram": "https://instagram.com/vidaplena"
+            }
+          },
+          "tags": ["higiene"]
+        }
+      ],
+      "oportunidades": [
+        {
+          "tipo": "oportunidade_voluntariado",
+          "titulo_vaga": "Facilitador de Oficinas",
+          "nome_instituicao": "Fundação Vida Plena",
+          "descricao": "Auxílio em oficinas educativas e rodas de conversa sobre saúde e bem-estar.",
+          "fotos": [
+            "https://api.exemplo.com/fotos/vidaplena_oficina_1.jpg",
+            "https://api.exemplo.com/fotos/vidaplena_oficina_2.jpg"
+          ],
+          "contato": {
+            "endereco": "Rua Vitalidade, 880",
+            "telefone": "(51) 99441-7788",
+            "email": "contato@vidaplena.org",
+            "redes_sociais": {
+              "instagram": "https://instagram.com/vidaplena"
+            }
+          },
+          "tags": ["educação"]
+        }
+      ]
+    },
+
+    {
+      "id": 17,
+      "nome": "Rede Solidária Sul",
+      "campanhas": [
+        {
+          "tipo": "arrecadacao_recursos",
+          "titulo_campanha": "Ação do Agasalho Sul",
+          "nome_instituicao": "Rede Solidária Sul",
+          "descricao": "Arrecadação de agasalhos para frio intenso que atinge cidades da região sul do estado.",
+          "fotos": [
+            "https://api.exemplo.com/fotos/redsul_agasalho_1.jpg",
+            "https://api.exemplo.com/fotos/redsul_agasalho_2.jpg"
+          ],
+          "contato": {
+            "endereco": "Rua do Vento Sul, 33",
+            "telefone": "(51) 99192-2200",
+            "email": "contato@solidariasul.org",
+            "redes_sociais": {
+              "instagram": "https://instagram.com/solidariasul"
+            }
+          },
+          "tags": ["roupa"]
+        }
+      ],
+      "oportunidades": [
+        {
+          "tipo": "oportunidade_voluntariado",
+          "titulo_vaga": "Separação e Lavagem de Agasalhos",
+          "nome_instituicao": "Rede Solidária Sul",
+          "descricao": "Voluntários ajudam na limpeza, triagem e separação das peças antes da entrega.",
+          "fotos": [
+            "https://api.exemplo.com/fotos/redsul_vol_1.jpg",
+            "https://api.exemplo.com/fotos/redsul_vol_2.jpg"
+          ],
+          "contato": {
+            "endereco": "Rua do Vento Sul, 33",
+            "telefone": "(51) 99192-2200",
+            "email": "contato@solidariasul.org",
+            "redes_sociais": {
+              "instagram": "https://instagram.com/solidariasul"
+            }
+          },
+          "tags": ["Geral"]
+        }
+      ]
+    },
+
+    {
+      "id": 18,
+      "nome": "Instituto Abraço Amigo",
+      "campanhas": [
+        {
+          "tipo": "arrecadacao_recursos",
+          "titulo_campanha": "Afeto em Forma de Doação",
+          "nome_instituicao": "Instituto Abraço Amigo",
+          "descricao": "Arrecadação de mantas, roupas e brinquedos para crianças em acolhimento institucional.",
+          "fotos": [
+            "https://api.exemplo.com/fotos/abraco_1.jpg",
+            "https://api.exemplo.com/fotos/abraco_2.jpg"
+          ],
+          "contato": {
+            "endereco": "Rua do Acolhimento, 150",
+            "telefone": "(51) 99321-7654",
+            "email": "contato@abracoamigo.org",
+            "redes_sociais": {
+              "instagram": "https://instagram.com/abracoamigo"
+            }
+          },
+          "tags": ["roupa", "brinquedos"]
+        }
+      ],
+      "oportunidades": [
+        {
+          "tipo": "oportunidade_voluntariado",
+          "titulo_vaga": "Acompanhante Afetivo",
+          "nome_instituicao": "Instituto Abraço Amigo",
+          "descricao": "Participar de atividades com crianças acolhidas, oferecendo atenção e carinho.",
+          "fotos": [
+            "https://api.exemplo.com/fotos/abraco_vol_1.jpg",
+            "https://api.exemplo.com/fotos/abraco_vol_2.jpg"
+          ],
+          "contato": {
+            "endereco": "Rua do Acolhimento, 150",
+            "telefone": "(51) 99321-7654",
+            "email": "contato@abracoamigo.org",
+            "redes_sociais": {
+              "instagram": "https://instagram.com/abracoamigo"
+            }
+          },
+          "tags": ["educação", "Geral"]
+        }
+      ]
+    },
+
+    {
+      "id": 19,
+      "nome": "Apoio à Família Real",
+      "campanhas": [
+        {
+          "tipo": "arrecadacao_recursos",
+          "titulo_campanha": "Móveis para Recomeçar em Família",
+          "nome_instituicao": "Apoio à Família Real",
+          "descricao": "Coleta de móveis usados de boa qualidade para famílias que estão reconstruindo suas casas após perdas.",
+          "fotos": [
+            "https://api.exemplo.com/fotos/familia_movel_1.jpg",
+            "https://api.exemplo.com/fotos/familia_movel_2.jpg"
+          ],
+          "contato": {
+            "endereco": "Rua Família Feliz, 123",
+            "telefone": "(51) 99812-0044",
+            "email": "contato@familiereal.org",
+            "redes_sociais": {
+              "instagram": "https://instagram.com/familiereal"
+            }
+          },
+          "tags": ["moveis"]
+        }
+      ],
+      "oportunidades": [
+        {
+          "tipo": "oportunidade_voluntariado",
+          "titulo_vaga": "Organizador de Doações",
+          "nome_instituicao": "Apoio à Família Real",
+          "descricao": "Responsável por organizar móveis recebidos, catalogar e auxiliar na logística de entrega.",
+          "fotos": [
+            "https://api.exemplo.com/fotos/familia_vol_1.jpg",
+            "https://api.exemplo.com/fotos/familia_vol_2.jpg"
+          ],
+          "contato": {
+            "endereco": "Rua Família Feliz, 123",
+            "telefone": "(51) 99812-0044",
+            "email": "contato@familiereal.org",
+            "redes_sociais": {
+              "instagram": "https://instagram.com/familiereal"
+            }
+          },
+          "tags": ["Geral"]
+        }
+      ]
+    },
+
+    {
+      "id": 20,
+      "nome": "Projeto Semear",
+      "campanhas": [
+        {
+          "tipo": "arrecadacao_recursos",
+          "titulo_campanha": "Horta Comunitária Viva",
+          "nome_instituicao": "Projeto Semear",
+          "descricao": "Campanha para arrecadar ferramentas, sementes e materiais agrícolas para a manutenção da horta comunitária.",
+          "fotos": [
+            "https://api.exemplo.com/fotos/semear_1.jpg",
+            "https://api.exemplo.com/fotos/semear_2.jpg"
+          ],
+          "contato": {
+            "endereco": "Rua da Natureza, 941",
+            "telefone": "(51) 99745-8822",
+            "email": "contato@semear.org",
+            "redes_sociais": {
+              "instagram": "https://instagram.com/projetosemear"
+            }
+          },
+          "tags": ["financeira"]
+        }
+      ],
+      "oportunidades": [
+        {
+          "tipo": "oportunidade_voluntariado",
+          "titulo_vaga": "Auxiliar de Agricultura Orgânica",
+          "nome_instituicao": "Projeto Semear",
+          "descricao": "Auxiliar no plantio, rega e manutenção das áreas de cultivo da horta comunitária.",
+          "fotos": [
+            "https://api.exemplo.com/fotos/semear_vol_1.jpg",
+            "https://api.exemplo.com/fotos/semear_vol_2.jpg"
+          ],
+          "contato": {
+            "endereco": "Rua da Natureza, 941",
+            "telefone": "(51) 99745-8822",
+            "email": "contato@semear.org",
+            "redes_sociais": {
+              "instagram": "https://instagram.com/projetosemear"
+            }
+          },
+          "tags": ["Geral"]
+        }
+      ]
+    }
+  ]
+}
