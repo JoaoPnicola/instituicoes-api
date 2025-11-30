@@ -10,8 +10,8 @@
           "nome_instituicao": "Associação Mãos Solidárias",
           "descricao": "Campanha focada em arrecadar roupas de frio, cobertores e agasalhos para famílias em situação de vulnerabilidade durante os meses mais frios do ano.",
           "fotos": [
-            "https://api.exemplo.com/fotos/inverno_quentinho_1.jpg",
-            "https://api.exemplo.com/fotos/inverno_quentinho_2.jpg"
+            "https://www.conass.org.br/wp-content/uploads/2021/05/2705-HutrinCampanhaAgasalho.jpeg",
+            "https://s2-g1.glbimg.com/QQegzy4ID4HaenTsxTc-233pt5k=/0x0:1439x897/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/r/H/9U0mq0SY21uXUtVqmqWw/whatsapp-image-2023-05-08-at-18.18.16.jpeg"
           ],
           "contato": {
             "endereco": "Rua das Flores, 123",
@@ -31,8 +31,8 @@
           "nome_instituicao": "Associação Mãos Solidárias",
           "descricao": "Atuação no centro de triagem organizando roupas e itens arrecadados. Não é necessário experiência prévia.",
           "fotos": [
-            "https://api.exemplo.com/fotos/triagem_1.jpg",
-            "https://api.exemplo.com/fotos/triagem_2.jpg"
+            "https://cdn.folhape.com.br/img/pc/1100/1/dn_arquivo/2025/11/whatsapp-image-2025-11-05-at-234118.jpeg",
+            "https://estado.rs.gov.br/upload/recortes/202006/24103329_1856377_GDO.jpeg"
           ],
           "contato": {
             "endereco": "Rua das Flores, 123",
@@ -57,8 +57,8 @@
           "nome_instituicao": "Casa do Bem",
           "descricao": "A campanha visa arrecadar cestas básicas e alimentos não perecíveis para famílias carentes no período de fim de ano.",
           "fotos": [
-            "https://api.exemplo.com/fotos/natal_sem_fome_1.jpg",
-            "https://api.exemplo.com/fotos/natal_sem_fome_2.jpg"
+            "https://idec.org.br/sites/default/files/noticias/istock-1283712032.jpg",
+            "https://web.arapiraca.al.gov.br/wp-content/uploads/2025/02/WhatsAppImage20250203at09.43.572.jpeg"
           ],
           "contato": {
             "endereco": "Av. Central, 850",
@@ -78,8 +78,8 @@
           "nome_instituicao": "Casa do Bem",
           "descricao": "Auxiliar na montagem e organização das cestas básicas antes da distribuição.",
           "fotos": [
-            "https://api.exemplo.com/fotos/cestas_1.jpg",
-            "https://api.exemplo.com/fotos/cestas_2.jpg"
+            "https://www.cirrs.ong.br/upload/service/JAz2fPzdaSty54G208hzN1ijbITT83s6bJuhDFKI.jpeg",
+            "https://acorrentedobemoficial.org.br/wp-content/uploads/2016/10/cesta-basica-de-alimentos-nao-pereciveis-ong-acorrente-do-bem-2.jpg.webp"
           ],
           "contato": {
             "endereco": "Av. Central, 850",
@@ -104,8 +104,8 @@
           "nome_instituicao": "Instituto Vida Animal",
           "descricao": "Campanha destinada a arrecadar ração, medicamentos e materiais de higiene para cães e gatos resgatados.",
           "fotos": [
-            "https://api.exemplo.com/fotos/racao_1.jpg",
-            "https://api.exemplo.com/fotos/racao_2.jpg"
+            "https://saopedropetfood.com.br/wp-content/uploads/2020/11/racoes-para-caes-900x550.jpg",
+            "https://ictq.com.br/images/Desafios_do_farmac%C3%AAutico_na_manipula%C3%A7%C3%A3o_de_medicamentos_veterin%C3%A1rios.jpg"
           ],
           "contato": {
             "endereco": "Rua dos Lírios, 445",
@@ -115,7 +115,7 @@
               "instagram": "https://instagram.com/vidaanimal"
             }
           },
-          "tags": ["para animais", "medicamentos"]
+          "tags": ["para animais", "financeira"]
         }
       ],
       "oportunidades": [
@@ -125,8 +125,8 @@
           "nome_instituicao": "Instituto Vida Animal",
           "descricao": "Responsável por levar os cães resgatados para caminhadas diárias no pátio da instituição.",
           "fotos": [
-            "https://api.exemplo.com/fotos/passeio_caes_1.jpg",
-            "https://api.exemplo.com/fotos/passeio_caes_2.jpg"
+            "https://www.patasdacasa.com.br/sites/default/files/noticias/2019/10/passear-com-cachorro-9-motivos-para-nao-deixar-o-passeio-de-lado.jpg",
+            "https://s2-casavogue.glbimg.com/JUHAeserMSiDpahBxjsNRgkxULM=/0x0:4088x2725/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_d72fd4bf0af74c0c89d27a5a226dbbf8/internal_photos/bs/2024/2/u/DTepF0QnCxZkL6KjLZcQ/passeio-cachorro.jpg"
           ],
           "contato": {
             "endereco": "Rua dos Lírios, 445",
@@ -151,8 +151,8 @@
           "nome_instituicao": "Projeto Esperança",
           "descricao": "Arrecadação de mochilas, cadernos, lápis, borrachas e demais materiais escolares para crianças em situação de vulnerabilidade.",
           "fotos": [
-            "https://api.exemplo.com/fotos/materiais_1.jpg",
-            "https://api.exemplo.com/fotos/materiais_2.jpg"
+            "https://www.tendaatacado.com.br/dicas/wp-content/webp-express/webp-images/uploads/2023/10/Topo-como-organizar-material-escolar-infantil-ok.jpg.webp",
+            "https://jundiai.sp.gov.br/noticias/wp-content/uploads/sites/32/2020/02/entrega_de_material_escolar_emeb_fatima_pandolpho-8-1280x949.jpg"
           ],
           "contato": {
             "endereco": "Rua Horizonte, 900",
@@ -162,7 +162,7 @@
               "instagram": "https://instagram.com/projetoesperanca"
             }
           },
-          "tags": ["materias escolares", "brinquedos"]
+          "tags": ["materias escolares", "financeira"]
         }
       ],
       "oportunidades": [
@@ -170,10 +170,10 @@
           "tipo": "oportunidade_voluntariado",
           "titulo_vaga": "Monitor de Reforço Escolar",
           "nome_instituicao": "Projeto Esperança",
-          "descricao": "Auxiliar crianças em atividades escolares e reforço de leitura e matemática.",
+          "descricao": "Auxiliar crianças de educação infantil em atividades escolares em reforço de leitura e matemática.",
           "fotos": [
-            "https://api.exemplo.com/fotos/reforco_1.jpg",
-            "https://api.exemplo.com/fotos/reforco_2.jpg"
+            "https://modobrincar.rihappy.com.br/wp-content/uploads/2022/01/post_thumbnail-8104bf8b45875512d6901dd6efbae34a-980x500.jpeg",
+            "https://quindim.com.br/blog/wp-content/uploads/2022/11/Como-ensinar-a-ler-8-dicas-faceis-e-praticas-meio1.jpg"
           ],
           "contato": {
             "endereco": "Rua Horizonte, 900",
@@ -198,8 +198,8 @@
           "nome_instituicao": "Fundação Saúde Viva",
           "descricao": "Coleta de medicamentos dentro da validade, itens de primeiros socorros e materiais hospitalares para doação a famílias que não podem comprar.",
           "fotos": [
-            "https://api.exemplo.com/fotos/medicamentos_1.jpg",
-            "https://api.exemplo.com/fotos/medicamentos_2.jpg"
+            "https://hilab.com.br/wp-content/uploads/2020/03/Dispensacao-medicamentos-Hilab.jpg",
+            "https://www.estadao.com.br/recomenda/wp-content/uploads/2025/05/kit-curativos-estadao.jpeg.webp"
           ],
           "contato": {
             "endereco": "Rua Saúde, 1010",
@@ -219,8 +219,8 @@
           "nome_instituicao": "Fundação Saúde Viva",
           "descricao": "Apoio na recepção e triagem básica de pessoas que recebem atendimento comunitário.",
           "fotos": [
-            "https://api.exemplo.com/fotos/atendimento_1.jpg",
-            "https://api.exemplo.com/fotos/atendimento_2.jpg"
+            "https://cdn.teletime.com.br/wp-content/uploads/2020/07/54_agendamento_presencial_cresce-1140x759-1.jpg",
+            "https://brascrs.com.br/src/uploads/2021/05/prioridades-800x545.jpg"
           ],
           "contato": {
             "endereco": "Rua Saúde, 1010",
@@ -245,8 +245,8 @@
           "nome_instituicao": "Grupo Aqui Somos",
           "descricao": "Campanha voltada para arrecadar roupas em bom estado, sapatos e itens de higiene para pessoas em situação de rua atendidas semanalmente.",
           "fotos": [
-            "https://api.exemplo.com/fotos/aquisomos_roupas_1.jpg",
-            "https://api.exemplo.com/fotos/aquisomos_roupas_2.jpg"
+            "https://isabelapontes.com.br/wp-content/uploads/2025/05/roupa.jpg",
+            "http://casaraoni.org/wp-content/uploads/2018/12/casa-raoni-doacao-de-produtos-de-higiene.jpg"
           ],
           "contato": {
             "endereco": "Rua Nova Esperança, 77",
@@ -256,7 +256,7 @@
               "instagram": "https://instagram.com/aquisomos"
             }
           },
-          "tags": ["roupa", "higiene"]
+          "tags": ["roupa", "higiene", "financeira"]
         }
       ],
       "oportunidades": [
@@ -266,8 +266,8 @@
           "nome_instituicao": "Grupo Aqui Somos",
           "descricao": "Atividade consiste em ajudar na entrega de kits de higiene para pessoas em situação de rua durante ações semanais.",
           "fotos": [
-            "https://api.exemplo.com/fotos/aquisomos_voluntarios_1.jpg",
-            "https://api.exemplo.com/fotos/aquisomos_voluntarios_2.jpg"
+            "https://osaopaulo.org.br/wp-content/uploads/2020/06/foto.jpg",
+            "https://diarioregionaldigital.com.br/wp-content/uploads/2021/03/Cidade-03-3-750x440.jpeg"
           ],
           "contato": {
             "endereco": "Rua Nova Esperança, 77",
@@ -292,8 +292,8 @@
           "nome_instituicao": "ONG Sorrisos do Amanhã",
           "descricao": "Coleta de brinquedos novos e usados em ótimo estado para crianças atendidas em comunidades carentes.",
           "fotos": [
-            "https://api.exemplo.com/fotos/brinquedos_sorrisos_1.jpg",
-            "https://api.exemplo.com/fotos/brinquedos_sorrisos_2.jpg"
+            "https://modobrincar.rihappy.com.br/wp-content/uploads/2022/01/post_thumbnail-53cb5c1f5d03e120be9cff5714ee5997.jpeg",
+            "https://s2-g1.glbimg.com/ykNgxG1b2WKC3ZX6319AjSLzS1I=/0x0:1200x800/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/g/S/fT9wAFTN6paRmCTCSAEw/brinquedos.jpg"
           ],
           "contato": {
             "endereco": "Rua Alegria, 555",
@@ -313,8 +313,8 @@
           "nome_instituicao": "ONG Sorrisos do Amanhã",
           "descricao": "Voluntários auxiliam em atividades recreativas, leitura e brincadeiras com crianças atendidas pela ONG.",
           "fotos": [
-            "https://api.exemplo.com/fotos/recreacao_sorrisos_1.jpg",
-            "https://api.exemplo.com/fotos/recreacao_sorrisos_2.jpg"
+            "https://modobrincar.rihappy.com.br/wp-content/uploads/2023/10/brincadeiras-para-o-dia-das-criancas-interna.jpg",
+            "https://site.ucdb.br//public/noticias/1029366-dia-do-brincar.jpg"
           ],
           "contato": {
             "endereco": "Rua Alegria, 555",
@@ -339,8 +339,8 @@
           "nome_instituicao": "Rede do Bem",
           "descricao": "Campanha para coletar móveis usados em bom estado para famílias que estão recomeçando em nova moradia.",
           "fotos": [
-            "https://api.exemplo.com/fotos/moveis_rededobem_1.jpg",
-            "https://api.exemplo.com/fotos/moveis_rededobem_2.jpg"
+            "https://cdn.midiamax.com.br/wp-content/uploads/2021/12/arquivos_noticias_2016_abr_20140616_104033.jpg",
+            "https://portalprudentino.com.br/imagens/uploads/2019/01/353fb81733f1bea83fec992f6b51ccb5.jpg"
           ],
           "contato": {
             "endereco": "Av. da União, 1200",
@@ -360,8 +360,8 @@
           "nome_instituicao": "Rede do Bem",
           "descricao": "Voluntários auxiliam na coleta e entrega de móveis doados às famílias cadastradas.",
           "fotos": [
-            "https://api.exemplo.com/fotos/entrega_rededobem_1.jpg",
-            "https://api.exemplo.com/fotos/entrega_rededobem_2.jpg"
+            "https://ciclovivo.com.br/wp-content/uploads/2022/02/doacao-de-moveis-ciclovivo.jpg",
+            "https://expansao.co/wp-content/uploads/2024/05/doacao-de-moveis.jpg"
           ],
           "contato": {
             "endereco": "Av. da União, 1200",
@@ -386,8 +386,8 @@
           "nome_instituicao": "Assistência Luz do Caminho",
           "descricao": "Campanha para arrecadar alimentos não perecíveis destinados a famílias em extrema pobreza.",
           "fotos": [
-            "https://api.exemplo.com/fotos/luz_alimentos_1.jpg",
-            "https://api.exemplo.com/fotos/luz_alimentos_2.jpg"
+            "https://www.cedro.pe.gov.br/fotos/731/Img0_600x400.jpg",
+            "https://asabrancacestabasica.com.br/wp-content/uploads/2021/09/WhatsApp-Image-2022-04-11-at-11.32.01-768x1024.jpeg"
           ],
           "contato": {
             "endereco": "Rua do Sol, 212",
@@ -397,7 +397,7 @@
               "instagram": "https://instagram.com/luzdocaminho"
             }
           },
-          "tags": ["alimentos"]
+          "tags": ["alimentos", "financeira"]
         }
       ],
       "oportunidades": [
@@ -407,8 +407,8 @@
           "nome_instituicao": "Assistência Luz do Caminho",
           "descricao": "Separação, contagem e organização dos alimentos doados antes da montagem das cestas.",
           "fotos": [
-            "https://api.exemplo.com/fotos/luz_voluntarios_1.jpg",
-            "https://api.exemplo.com/fotos/luz_voluntarios_2.jpg"
+            "https://blogabpe.org/wp-content/uploads/2021/07/rsw_1280h_768i_truecg_trueft_cover.jpeg",
+            "https://m.vitoria.es.gov.br/recursos/imagens/banco/2022/08/17/102444/normal@2x.jpg"
           ],
           "contato": {
             "endereco": "Rua do Sol, 212",
@@ -433,8 +433,8 @@
           "nome_instituicao": "Instituto Jovem Futuro",
           "descricao": "Arrecadação de notebooks, tablets e computadores usados para jovens em formação tecnológica.",
           "fotos": [
-            "https://api.exemplo.com/fotos/tec_jovem_1.jpg",
-            "https://api.exemplo.com/fotos/tec_jovem_2.jpg"
+            "https://al.rr.leg.br/wp-content/uploads/2021/02/WhatsApp-Image-2021-02-10-at-15.22.18.jpeg",
+            "https://unicamp.br/unicamp/sites/default/files/inline-images/atu_equipamentos_20210405_2.jpg"
           ],
           "contato": {
             "endereco": "Rua da Juventude, 300",
@@ -444,7 +444,7 @@
               "instagram": "https://instagram.com/jovemfuturo"
             }
           },
-          "tags": ["moveis"]
+          "tags": ["moveis", "financeira", "materias escolares"]
         }
       ],
       "oportunidades": [
@@ -454,8 +454,8 @@
           "nome_instituicao": "Instituto Jovem Futuro",
           "descricao": "Apoiar jovens em aulas introdutórias de informática, programação e uso de tecnologia.",
           "fotos": [
-            "https://api.exemplo.com/fotos/inf_jovem_1.jpg",
-            "https://api.exemplo.com/fotos/inf_jovem_2.jpg"
+            "https://www.cms.ba.gov.br/uploads/noticias/bd40c08677425fe81de125b52c957787_1559159577.jpg",
+            "https://colegioincomar.com.br/uploads/content_file/BIGaulas-no-laboratorio-de-informatica95.jpg"
           ],
           "contato": {
             "endereco": "Rua da Juventude, 300",
@@ -480,8 +480,8 @@
           "nome_instituicao": "Centro Comunitário Nova Vida",
           "descricao": "Arrecadação de itens de higiene pessoal e limpeza para famílias atendidas pelo centro.",
           "fotos": [
-            "https://api.exemplo.com/fotos/higiene_novavida_1.jpg",
-            "https://api.exemplo.com/fotos/higiene_novavida_2.jpg"
+            "https://smetal.org.br/wp-content/uploads/2020/07/H173624-F00004-B996.jpeg",
+            "https://www.urupes.sp.gov.br/noticias/upload/postagens/1963559174.JPG"
           ],
           "contato": {
             "endereco": "Rua Esperança, 909",
@@ -491,7 +491,7 @@
               "instagram": "https://instagram.com/novavida"
             }
           },
-          "tags": ["higiene"]
+          "tags": ["higiene", "financeira"]
         }
       ],
       "oportunidades": [
@@ -501,8 +501,8 @@
           "nome_instituicao": "Centro Comunitário Nova Vida",
           "descricao": "Auxiliar no atendimento geral às famílias que buscam apoio no centro.",
           "fotos": [
-            "https://api.exemplo.com/fotos/vol_novavida_1.jpg",
-            "https://api.exemplo.com/fotos/vol_novavida_2.jpg"
+            "https://www.ceara.gov.br/wp-content/uploads/2020/07/ARI4834.jpg",
+            "https://www.fortaleza.ce.gov.br/images/images1/000000000000000000000000Fev23/27%2002%202023%20Comunidade%20Gengibre%2011.jpg"
           ],
           "contato": {
             "endereco": "Rua Esperança, 909",
@@ -527,8 +527,8 @@
           "nome_instituicao": "Coração Solidário",
           "descricao": "Campanha para arrecadar itens alimentares de cesta básica que serão distribuídos no bairro.",
           "fotos": [
-            "https://api.exemplo.com/fotos/coracao_alimentos_1.jpg",
-            "https://api.exemplo.com/fotos/coracao_alimentos_2.jpg"
+            "https://static.wixstatic.com/media/082b2c_69617abf1c914c67a91bd069e291ed8c~mv2.jpg/v1/fill/w_625,h_416,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/082b2c_69617abf1c914c67a91bd069e291ed8c~mv2.jpg",
+            "https://cdn.folhape.com.br/img/pc/1100/1/dn_arquivo/2022/12/whatsapp-image-2022-12-01-at-150455.jpeg"
           ],
           "contato": {
             "endereco": "Rua Amor Perfeito, 155",
@@ -538,7 +538,7 @@
               "instagram": "https://instagram.com/coracaosolidario"
             }
           },
-          "tags": ["alimentos"]
+          "tags": ["alimentos", "financeira"]
         }
       ],
       "oportunidades": [
@@ -548,8 +548,8 @@
           "nome_instituicao": "Coração Solidário",
           "descricao": "Ajudar nas rotas de entrega de cestas básicas a famílias cadastradas.",
           "fotos": [
-            "https://api.exemplo.com/fotos/coracao_vol_1.jpg",
-            "https://api.exemplo.com/fotos/coracao_vol_2.jpg"
+            "https://trindade.go.gov.br/wp-content/uploads/2024/11/WhatsApp-Image-2024-11-19-at-21.12.53.jpeg",
+            "https://cdn.folhape.com.br/img/pc/1100/1/dn_arquivo/2020/04/whatsapp-image-2020-04-23-at-150112.jpg"
           ],
           "contato": {
             "endereco": "Rua Amor Perfeito, 155",
@@ -574,8 +574,8 @@
           "nome_instituicao": "Projeto Renascer",
           "descricao": "Campanha para arrecadar roupas, alimentos e itens de higiene para famílias afetadas por desastres naturais.",
           "fotos": [
-            "https://api.exemplo.com/fotos/renascer_1.jpg",
-            "https://api.exemplo.com/fotos/renascer_2.jpg"
+            "https://asabrancacestabasica.com.br/wp-content/uploads/2021/09/cesta-n2.jpg",
+            "https://www.cirrs.ong.br/upload/service/sNQZG21QFX44YvNrJS9fL5MejgWNwAC7G8aM1SDV.jpeg"
           ],
           "contato": {
             "endereco": "Rua da Paz, 345",
@@ -585,7 +585,7 @@
               "instagram": "https://instagram.com/projetorenascer"
             }
           },
-          "tags": ["alimentos", "roupa", "higiene"]
+          "tags": ["alimentos", "roupa", "higiene", "financeira"]
         }
       ],
       "oportunidades": [
@@ -595,8 +595,8 @@
           "nome_instituicao": "Projeto Renascer",
           "descricao": "Atuação emergencial em situações de calamidade, incluindo separação de doações e apoio às vítimas.",
           "fotos": [
-            "https://api.exemplo.com/fotos/renascer_vol_1.jpg",
-            "https://api.exemplo.com/fotos/renascer_vol_2.jpg"
+            "https://lbv.org/wp-content/uploads/2024/06/sos-calamidades-rs-7.jpg",
+            "https://www.somasp.org.br/arquivos/2024/05/Voluntarios-da-LBV_1-3-2048x1365.jpg"
           ],
           "contato": {
             "endereco": "Rua da Paz, 345",
@@ -621,8 +621,8 @@
           "nome_instituicao": "Movimento Ação pelo Bem",
           "descricao": "Levantamento de recursos financeiros destinados à manutenção de projetos sociais locais.",
           "fotos": [
-            "https://api.exemplo.com/fotos/acaobem_financeiro_1.jpg",
-            "https://api.exemplo.com/fotos/acaobem_financeiro_2.jpg"
+            "https://ampliar.org.br/wp-content/uploads/2021/10/projetos-sociais-sao-importantes-por-que-apoia-los.jpg",
+            "https://wikihaus.com.br/wp-content/uploads/2018/10/projetos-sociais.jpg"
           ],
           "contato": {
             "endereco": "Av. Esperança, 404",
@@ -642,8 +642,8 @@
           "nome_instituicao": "Movimento Ação pelo Bem",
           "descricao": "Dar suporte logístico e operacional em eventos destinados à arrecadação de fundos.",
           "fotos": [
-            "https://api.exemplo.com/fotos/acaobem_eventos_1.jpg",
-            "https://api.exemplo.com/fotos/acaobem_eventos_2.jpg"
+            "https://lets.events/blog/wp-content/uploads/2023/04/evento-beneficente.jpg",
+            "https://www.claudiamatarazzo.com.br/wp-content/uploads/2018/04/Staff-Events-Corporate-Team-claudiamatarazzo_amenimario.jpg"
           ],
           "contato": {
             "endereco": "Av. Esperança, 404",
@@ -668,8 +668,8 @@
           "nome_instituicao": "Associação Esperança Animal",
           "descricao": "Campanha para arrecadar ração, remédios e itens de cuidado para cães e gatos em situação de abandono.",
           "fotos": [
-            "https://api.exemplo.com/fotos/animais_esperanca_1.jpg",
-            "https://api.exemplo.com/fotos/animais_esperanca_2.jpg"
+            "https://s2-g1.glbimg.com/FAI04ltIde4WpGDC4vqzJ3L88Zc=/0x0:1280x960/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/v/K/lRfJXBQ4mt6xHvBpQe1A/cadastro-protetores-animais-1-.jpg",
+            "https://www.louveira.sp.gov.br/painel/dbanexos/dbanexo_imagem/06-2023/14d3b0efc816f19bb352188a90be3cdc5ef1986e.jpeg"
           ],
           "contato": {
             "endereco": "Rua dos Animais, 202",
@@ -679,7 +679,7 @@
               "instagram": "https://instagram.com/esperancaanimal"
             }
           },
-          "tags": ["para animais", "medicamentos"]
+          "tags": ["para animais", "medicamentos", "financeira"]
         }
       ],
       "oportunidades": [
@@ -689,8 +689,8 @@
           "nome_instituicao": "Associação Esperança Animal",
           "descricao": "Limpeza do abrigo, cuidados básicos e interação com os animais resgatados.",
           "fotos": [
-            "https://api.exemplo.com/fotos/esperanca_vol_1.jpg",
-            "https://api.exemplo.com/fotos/esperanca_vol_2.jpg"
+            "https://mid-noticias.curitiba.pr.gov.br/2025/capa/00472277.jpg",
+            "https://s2-g1.glbimg.com/T8jQ-BRE6Vt8FbSIeCvYr5WdLh8=/0x0:1920x1080/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/3/6/rhYLxeQpucdXNFMHc3Ig/crise-abrigo-animais-06-05-2019.mov-snapshot-01.08-2019.05.07-10.58.05-.jpg"
           ],
           "contato": {
             "endereco": "Rua dos Animais, 202",
@@ -715,8 +715,8 @@
           "nome_instituicao": "Fundação Vida Plena",
           "descricao": "Arrecadação de absorventes, sabonetes e itens de cuidados pessoais para mulheres em vulnerabilidade.",
           "fotos": [
-            "https://api.exemplo.com/fotos/vidaplena_higiene_1.jpg",
-            "https://api.exemplo.com/fotos/vidaplena_higiene_2.jpg"
+            "https://alnb.com.br/wp-content/uploads/2024/03/biblioteca-publica-estadual-graciliano-ramos-promove-campanha-para-arrecadacao-de-kits-de-higiene-feminina.jpg",
+            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNIjVd0maeLg-wdTaxaM5-WuRLhdueclcH1aRl3rdvwIYwG1TFoZa7c7woWK6ZRYI5J-V8fVmaZtVLQJf_aMcquYafG43jVAVWgNjOuXl5KnZXx2nvfSN5xn3MK18DV-tZkiHjU0GmDQQ/s1600/0541c93a-a5f3-46db-8a8d-62e5d8a293dc.jpg"
           ],
           "contato": {
             "endereco": "Rua Vitalidade, 880",
@@ -726,7 +726,7 @@
               "instagram": "https://instagram.com/vidaplena"
             }
           },
-          "tags": ["higiene"]
+          "tags": ["higiene", "financeira"]
         }
       ],
       "oportunidades": [
@@ -736,8 +736,8 @@
           "nome_instituicao": "Fundação Vida Plena",
           "descricao": "Auxílio em oficinas educativas e rodas de conversa sobre saúde e bem-estar.",
           "fotos": [
-            "https://api.exemplo.com/fotos/vidaplena_oficina_1.jpg",
-            "https://api.exemplo.com/fotos/vidaplena_oficina_2.jpg"
+            "https://www.tcepi.tc.br/wp-content/uploads/2020/01/IMG_2846-scaled.jpg",
+            "https://files.cercomp.ufg.br/weby/up/1/o/DSC_2078.JPG"
           ],
           "contato": {
             "endereco": "Rua Vitalidade, 880",
@@ -762,8 +762,8 @@
           "nome_instituicao": "Rede Solidária Sul",
           "descricao": "Arrecadação de agasalhos para frio intenso que atinge cidades da região sul do estado.",
           "fotos": [
-            "https://api.exemplo.com/fotos/redsul_agasalho_1.jpg",
-            "https://api.exemplo.com/fotos/redsul_agasalho_2.jpg"
+            "https://ecoaliza.com.br/wp-content/uploads/2023/07/agasalha.jpg",
+            "https://s2-redeglobo.glbimg.com/m4XQKon7Q0vOPzlNg0MieN1wyfU=/0x0:850x514/924x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_b58693ed41d04a39826739159bf600a0/internal_photos/bs/2021/5/V/bfCkbuTGuo4h6mE2qm5Q/doar-roupa-850x514.jpg"
           ],
           "contato": {
             "endereco": "Rua do Vento Sul, 33",
@@ -783,8 +783,8 @@
           "nome_instituicao": "Rede Solidária Sul",
           "descricao": "Voluntários ajudam na limpeza, triagem e separação das peças antes da entrega.",
           "fotos": [
-            "https://api.exemplo.com/fotos/redsul_vol_1.jpg",
-            "https://api.exemplo.com/fotos/redsul_vol_2.jpg"
+            "https://claudia.abril.com.br/wp-content/uploads/2025/07/doacao-de-roupas.jpg?quality=70&strip=info&resize=1080,565&crop=1https://www.shutterstock.com/image-photo/directly-above-view-male-volunteer-600nw-2456124887.jpg",
+            "https://img.freepik.com/fotos-gratis/voluntarios-de-tiro-medio-com-doacao-de-roupas_23-2149196127.jpg"
           ],
           "contato": {
             "endereco": "Rua do Vento Sul, 33",
@@ -809,8 +809,8 @@
           "nome_instituicao": "Instituto Abraço Amigo",
           "descricao": "Arrecadação de mantas, roupas e brinquedos para crianças em acolhimento institucional.",
           "fotos": [
-            "https://api.exemplo.com/fotos/abraco_1.jpg",
-            "https://api.exemplo.com/fotos/abraco_2.jpg"
+            "https://www.ambep.org.br/wp-content/uploads/2024/11/Depositphotos_208219020_L-1024x682.jpg",
+            "https://www.avare.sp.gov.br/img/novidades/4d6eb07a2cdf5992dedbc449fcdcc2a8.jpg"
           ],
           "contato": {
             "endereco": "Rua do Acolhimento, 150",
@@ -830,8 +830,8 @@
           "nome_instituicao": "Instituto Abraço Amigo",
           "descricao": "Participar de atividades com crianças acolhidas, oferecendo atenção e carinho.",
           "fotos": [
-            "https://api.exemplo.com/fotos/abraco_vol_1.jpg",
-            "https://api.exemplo.com/fotos/abraco_vol_2.jpg"
+            "https://pequenoprincipe.org.br/wp-content/uploads/2014/01/Brinquedoteca-1.jpg",
+            "https://www.vivario.org.br/wordpress/wp-content/uploads/2018/10/Vitor-Madeira_Viva-Rio-7-2.jpg"
           ],
           "contato": {
             "endereco": "Rua do Acolhimento, 150",
@@ -856,8 +856,8 @@
           "nome_instituicao": "Apoio à Família Real",
           "descricao": "Coleta de móveis usados de boa qualidade para famílias que estão reconstruindo suas casas após perdas.",
           "fotos": [
-            "https://api.exemplo.com/fotos/familia_movel_1.jpg",
-            "https://api.exemplo.com/fotos/familia_movel_2.jpg"
+            "https://images.tcdn.com.br/img/img_prod/1101616/cama_solteiro_com_cabeceira_tecido_linho_veludo_sob_medida_5177_1_47cffb5297f3327fc97c9a69cc36fa07.jpg",
+            "https://tuacasa.uol.com.br/wp-content/uploads/2019/05/cozinha-simples-10.jpg"
           ],
           "contato": {
             "endereco": "Rua Família Feliz, 123",
@@ -877,8 +877,8 @@
           "nome_instituicao": "Apoio à Família Real",
           "descricao": "Responsável por organizar móveis recebidos, catalogar e auxiliar na logística de entrega.",
           "fotos": [
-            "https://api.exemplo.com/fotos/familia_vol_1.jpg",
-            "https://api.exemplo.com/fotos/familia_vol_2.jpg"
+            "https://pagbem.com.br/wp-content/uploads/2022/09/carga-e-descarga.jpg",
+            "https://www.longa.com.br/wp-content/uploads/2019/08/300904-gerenciamento-de-almoxarifado-5-erros-logisticos-a-serem-evitados-1-2048x1367.jpg"
           ],
           "contato": {
             "endereco": "Rua Família Feliz, 123",
@@ -903,8 +903,8 @@
           "nome_instituicao": "Projeto Semear",
           "descricao": "Campanha para arrecadar ferramentas, sementes e materiais agrícolas para a manutenção da horta comunitária.",
           "fotos": [
-            "https://api.exemplo.com/fotos/semear_1.jpg",
-            "https://api.exemplo.com/fotos/semear_2.jpg"
+            "https://cdnm.westwing.com.br/glossary/uploads/br/2023/04/13183731/horta-comunitaria-1.jpg",
+            "https://sustentavel.com.br/wp-content/uploads/2020/07/Hortas-comunit%C3%A1rias-2.jpg"
           ],
           "contato": {
             "endereco": "Rua da Natureza, 941",
@@ -924,8 +924,8 @@
           "nome_instituicao": "Projeto Semear",
           "descricao": "Auxiliar no plantio, rega e manutenção das áreas de cultivo da horta comunitária.",
           "fotos": [
-            "https://api.exemplo.com/fotos/semear_vol_1.jpg",
-            "https://api.exemplo.com/fotos/semear_vol_2.jpg"
+            "https://organicsnewsbrasil.com.br/wp-content/uploads/2020/06/agricultura-plantio-agricultor.jpg",
+            "https://blog.belagro.com.br/content/uploads/2021/06/o-que-plantar-na-horta-750x422.jpg"
           ],
           "contato": {
             "endereco": "Rua da Natureza, 941",
